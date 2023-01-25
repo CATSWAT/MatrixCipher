@@ -1,0 +1,2 @@
+# MatrixCipher
+Matrix Cipher is an encryption technique that uses a matrix to encrypt and decrypt text. The process of encryption involves placing the plaintext into the matrix and then transforming it by applying certain operations on the rows and columns of the matrix. The resulting ciphertext is then decrypted by reversing the operations applied to the matrix. Matrix Cipher is a simple yet powerful encryption technique that can be used to protect data from unauthorized access.
