@@ -1,0 +1,11 @@
+C:\Users\herhe\source\repos\MatrixCipher\bin\Debug\MatrixCipher.exe.config
+C:\Users\herhe\source\repos\MatrixCipher\bin\Debug\MatrixCipher.exe
+C:\Users\herhe\source\repos\MatrixCipher\bin\Debug\MatrixCipher.pdb
+C:\Users\herhe\source\repos\MatrixCipher\obj\Debug\MatrixCipher.csproj.AssemblyReference.cache
+C:\Users\herhe\source\repos\MatrixCipher\obj\Debug\MatrixCipher.csproj.SuggestedBindingRedirects.cache
+C:\Users\herhe\source\repos\MatrixCipher\obj\Debug\MatrixCipher.Form1.resources
+C:\Users\herhe\source\repos\MatrixCipher\obj\Debug\MatrixCipher.Properties.Resources.resources
+C:\Users\herhe\source\repos\MatrixCipher\obj\Debug\MatrixCipher.csproj.GenerateResource.cache
+C:\Users\herhe\source\repos\MatrixCipher\obj\Debug\MatrixCipher.csproj.CoreCompileInputs.cache
+C:\Users\herhe\source\repos\MatrixCipher\obj\Debug\MatrixCipher.exe
+C:\Users\herhe\source\repos\MatrixCipher\obj\Debug\MatrixCipher.pdb
